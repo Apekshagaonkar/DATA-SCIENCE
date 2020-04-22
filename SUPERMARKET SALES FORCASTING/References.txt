@@ -1,0 +1,10 @@
+DataSet:https://drive.google.com/file/d/1OsTH2Bja_XtEzZs4hgARKupEi0G7mbcF/view
+
+1.Exploratory Data Analysis-https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
+
+2.Feature Engineering - https://elitedatascience.com/feature-engineering
+			https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
+
+3.Modeling - https://www.youtube.com/watch?v=7VeUPuFGJHk
+
+4.https://www.kaggle.com/c/titanic/notebooks
