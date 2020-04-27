@@ -37,6 +37,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 **IMP_NOTE**
+
   When ever you are using any data to experiment or implement, always read the license of the data.It will contain few rules which you should follow and not to use data if permission is not granted.
   
 https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
