@@ -27,7 +27,9 @@ In a terminal or command window, navigate to the top-level project directory `Fo
 
 
 ipython notebook Forecasting_Stock_Market_Prices.ipynb
+
 or
+
 jupyter notebook Forecasting_Stock_Market_Prices.ipynb
 
 
