@@ -22,6 +22,8 @@ Features:
   
 Note that prices have been adjusted for dividends and splits.
 
+### LICENSE OF DATASET : [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/)
+
 ### Requirements
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
